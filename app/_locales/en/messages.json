@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "surfline data checker",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "An extension for checking surfline data available",
+    "description": "The description of the application"
+  }
+}
